@@ -1,2 +1,3 @@
 # Python-Digital-Clock
-A digital python clock using PyQt5 GUI
+INTRODUCTION : 📖
+This is a Python Digital Clock which has a graphical user interface 
